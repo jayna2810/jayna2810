@@ -12,14 +12,14 @@ Excited to collaborate and create something awesome!"</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <h3>Education:</h3>
-Diploma in computer Engineering: Atmiya Institute of Technology, Rajkot.
-Degree in computer Engineering: Marwadi University, Rajkot.
-Certification in Front-end developer: TOPS Technologies, Ahmedabad.
+<p>Diploma in computer Engineering: Atmiya Institute of Technology, Rajkot.</p>
+<p>Degree in computer Engineering: Marwadi University, Rajkot.</p>
+<p>Certification in Front-end developer: TOPS Technologies, Ahmedabad.</p>
 
-Personal Interests:
-Music & Dance
-Cooking & Baking
-Art & Craft
+<h3>Personal Interests:</h3>
+<p>Music & Dance</p>
+<p>Cooking & Baking</p>
+<p>Art & Craft</p> 
 
 - 📫 How to reach me **jaynabadrakiya2810@gmail.com**
 
